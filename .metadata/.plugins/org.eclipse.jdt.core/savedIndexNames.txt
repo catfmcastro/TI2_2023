@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+H:\Arquivos\Documents\code\TI2_local\Exercicio01\.metadata\.plugins\org.eclipse.jdt.core
